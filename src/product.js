@@ -1,4 +1,5 @@
 class Product {
+    // test collaboration
     constructor(id,name,initialQuantity, reorderLevel, price) {
         this.id = id;
         this.name = name;
